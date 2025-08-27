@@ -22,12 +22,6 @@ At my core, I value **adaptability, continuous learning, and collaboration** —
 
 ---
 
-## 📊 GitHub Stats   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegaeph&layout=compact&theme=radical)  
-
----
-
 ## 📌 Find Me Online  
 🌐 [Portfolio Website](https://tsega-ephrem.onrender.com)  
 💼 [LinkedIn](https://linkedin.com/in/tsega-ephrem)  
